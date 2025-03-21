@@ -32,7 +32,10 @@ print(fd)
 
 print(ex)
 
+
+
 OUTPUT:
+
 40
 
 -20
